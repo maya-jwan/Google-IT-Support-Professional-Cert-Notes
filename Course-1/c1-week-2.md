@@ -29,7 +29,7 @@
 
 - **External Data Bus** is an internal network of wires, which send voltage to wires to represent on (1) or off (0)
 
-- **Registers** store the data the CPU works with.
+- **Registers** store the data the CPU works with. A tiny and very fast locations inside the cpu that stores the data being processed. 
 
 - **Memory Controller Chip (MCC)** is a bridge between the CPU and the RAM, like a nerve in your brain controlling thoughts or memories.
 
